@@ -3,8 +3,7 @@ def introduction(name)
 end
 
 def introduction_with_language 
-puts name 
-puts language
+name,language
 
 puts " HI my name is #{name} and i am learning to proggramn in #{language}"
 end 
